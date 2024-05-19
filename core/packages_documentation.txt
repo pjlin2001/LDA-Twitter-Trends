@@ -1,0 +1,25 @@
+# If you add a package, add a short description to help others understand what it's for. Thank you!
+
+shiny # core shiny load
+
+shinydashboard # default dashboard
+
+shinydashboardPlus # enhanced dashboard by adminLTE
+
+shinyWidgets # shiny core widgets
+
+dashboardthemes # still in development, changing app theme
+
+leaflet # for building maps
+
+ggplot2 # pretty graphs
+
+plotly # interactive plots
+
+miceadds # allows the source.all function
+
+anytime # date manipulator
+
+tidyverse # manipulating dataframes
+
+shinytoastr # shwo toast notifications
